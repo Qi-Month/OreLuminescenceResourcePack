@@ -18,7 +18,7 @@
 * **Brief Introduction**
   * So as you can see, this is just a very simple **Ore glow** ResourcePack, For version `1.20.1` of `Minecraft`
   * Requires pre-installed mods [**`OptiFine`**](https://optifine.net) or [**`Continuity`**](https://www.curseforge.com/minecraft/mc-mods/continuity)
-  * If you want to in [**`Forge`**](https://files.minecraftforge.net/net/minecraftforge/forge/) or [**`NeoForge`**](https://neoforged.net/) and [**`Embeddium`**](https://www.curseforge.com/minecraft/mc-mods/embeddium) or [**`Rubidium`**](https://www.curseforge.com/minecraft/mc-mods/rubidium)use simultaneously[**`Continuity`**](https://www.curseforge.com/minecraft/mc-mods/continuity),Then you need the following **Mods** as a prerequisite
+  * If you want to in [**`Forge`**](https://files.minecraftforge.net/net/minecraftforge/forge/) or [**`NeoForge`**](https://neoforged.net/) and [**`Embeddium`**](https://www.curseforge.com/minecraft/mc-mods/embeddium) or [**`Rubidium`**](https://www.curseforge.com/minecraft/mc-mods/rubidium)use simultaneously [**`Continuity`**](https://www.curseforge.com/minecraft/mc-mods/continuity), Then you need the following **Mods** as a prerequisite
     * [**`Sinytra Connector`**](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) 
     * [**`Fabric API`**](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
     * [**`Lazurite`**](https://www.curseforge.com/minecraft/fmc-mods/lazurite)
