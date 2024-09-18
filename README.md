@@ -17,7 +17,7 @@
 
 ---
 
-# Introduction (Simplified Chinese)
+# Introduction (English)
 ## Ore Luminescence
 ### Simple introduction
 
